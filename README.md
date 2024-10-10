@@ -16,4 +16,11 @@ Personal E-mail: yukileung523@gmail.com
 Phone: 0493574521
 ...
 
+pipeline
+1. data download: link
+2. data cleaning: link
+3. visualization: link
+4. model: link
+
+
 
