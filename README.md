@@ -5,6 +5,9 @@ Raw Data Set (All Asian Data):https://drive.google.com/drive/folders/1O3PainZUhZ
 
 Cleaned Data Set - Philippines (Model Training):https://drive.google.com/file/d/1ZR4PVrgRfpdP0UqH2dTTj5o6HfEd11At/view?usp=sharing
 
+Presentation Slide:https://docs.google.com/presentation/d/12AGvOv3PoVx-WHcJYEQGINzt73vrGCj0/edit?usp=sharing&ouid=115814369556926945650&rtpof=true&sd=true
+
+
 ## Pipeline
 1. data download: [Automation Code](https://github.com/Yuki-lsq/DS_project_group25/blob/c14a4cdbd64bba8314bef9b781aabe6394c09d11/Automation_download_with_data_attributes.py)
 2. data cleaning: [Data Cleaning](https://github.com/Yuki-lsq/DS_project_group25/blob/main/cleaning.ipynb)
