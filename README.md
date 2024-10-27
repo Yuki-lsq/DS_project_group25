@@ -13,7 +13,7 @@ Tableau file (Dashboard): https://drive.google.com/file/d/1zfmV0uNrP4c9Ng2HAvYkp
 ## Pipeline
 1. Data Download: [Automation Code](https://github.com/Yuki-lsq/DS_project_group25/blob/c14a4cdbd64bba8314bef9b781aabe6394c09d11/Automation_download_with_data_attributes.py)
 2. Data Cleaning: [Data Cleaning](https://github.com/Yuki-lsq/DS_project_group25/blob/main/cleaning.ipynb)
-3. Visualization: Tableau Link
+3. Visualization: [Tableau Link](https://drive.google.com/file/d/1zfmV0uNrP4c9Ng2HAvYkp3IlwkYrfUy5/view?usp=sharing)
 4. Model: [Model Training](https://github.com/Yuki-lsq/DS_project_group25/blob/44c6962d07d454af8fbc8db3a308b0f4989d68c4/Model_Training.ipynb)
 
 ## Dashboard Viewing
