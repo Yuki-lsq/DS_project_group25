@@ -5,6 +5,12 @@ Raw Data Set (All Asian Data):https://drive.google.com/drive/folders/1O3PainZUhZ
 
 Cleaned Data Set - Philippines (Model Training):https://drive.google.com/file/d/1ZR4PVrgRfpdP0UqH2dTTj5o6HfEd11At/view?usp=sharing
 
+## Pipeline
+1. data download: [Automation Code](https://github.com/Yuki-lsq/DS_project_group25/blob/c14a4cdbd64bba8314bef9b781aabe6394c09d11/Automation_download_with_data_attributes.py)
+2. data cleaning: link
+3. visualization: link
+4. model: [Model Training](https://github.com/Yuki-lsq/DS_project_group25/blob/44c6962d07d454af8fbc8db3a308b0f4989d68c4/Model_Training.ipynb)
+
 
 ## Presentation Vedio:
 - School version:
@@ -32,11 +38,7 @@ Tableau file (TBD)
   - Personal E-mail: pqjspy@gmail.com
   - Phone: 0490910558
 
-## pipeline
-1. data download: [Automation Code](https://github.com/Yuki-lsq/DS_project_group25/blob/c14a4cdbd64bba8314bef9b781aabe6394c09d11/Automation_download_with_data_attributes.py)
-2. data cleaning: link
-3. visualization: link
-4. model: [Model Training](https://github.com/Yuki-lsq/DS_project_group25/blob/44c6962d07d454af8fbc8db3a308b0f4989d68c4/Model_Training.ipynb)
+
 
 
 
