@@ -23,14 +23,18 @@ Team Member Contact:
   - Personal E-mail: yukileung523@gmail.com
   - Phone: 0493574521
 
-Sichao Ren:
-Student E-mail: sichaor@student.unimelb.edu.au
-Personal E-mail: chelsearen524@gmail.com
-Phone: 0432330811
-...
+- Sichao Ren:
+  - Student E-mail: sichaor@student.unimelb.edu.au
+  - Personal E-mail: chelsearen524@gmail.com
+  - Phone: 0432330811
+
+- Qiangjian Pan:
+  - Student E-mail: qiangjianp@student.unimelb.edu.au
+  - Personal E-mail: pqjspy@gmail.com
+  - Phone: 0490910558
 
 pipeline
-1. data download: link
+1. data download: [Automation Code](https://github.com/Yuki-lsq/DS_project_group25/blob/c14a4cdbd64bba8314bef9b781aabe6394c09d11/Automation_download_with_data_attributes.py)
 2. data cleaning: link
 3. visualization: link
 4. model: link
