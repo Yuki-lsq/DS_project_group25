@@ -19,9 +19,9 @@ Tableau file (TBD)
 
 Team Member Contact:
 - Yuki Liang:
-  Student E-mail: liasl1@student.unimelb.edu.au
-  Personal E-mail: yukileung523@gmail.com
-  Phone: 0493574521
+  - Student E-mail: liasl1@student.unimelb.edu.au
+  - Personal E-mail: yukileung523@gmail.com
+  - Phone: 0493574521
 
 Sichao Ren:
 Student E-mail: sichaor@student.unimelb.edu.au
