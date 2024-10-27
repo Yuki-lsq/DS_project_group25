@@ -6,7 +6,7 @@ Raw Data Set (All Asian Data):https://drive.google.com/drive/folders/1O3PainZUhZ
 Cleaned Data Set - Philippines (Model Training):https://drive.google.com/file/d/1ZR4PVrgRfpdP0UqH2dTTj5o6HfEd11At/view?usp=sharing
 
 
-Presentation Vedio:
+## Presentation Vedio:
 - School version:
   https://drive.google.com/file/d/12MpwD6EtuiYPM0XLue43CJArQwsXIIOC/view?usp=sharing
 
@@ -15,7 +15,7 @@ Presentation Vedio:
 
 Tableau file (TBD)
 
-Team Member Contact:
+## Team Member Contact:
 
 - Yuki Liang:
   - Student E-mail: liasl1@student.unimelb.edu.au
@@ -32,7 +32,7 @@ Team Member Contact:
   - Personal E-mail: pqjspy@gmail.com
   - Phone: 0490910558
 
-pipeline
+## pipeline
 1. data download: [Automation Code](https://github.com/Yuki-lsq/DS_project_group25/blob/c14a4cdbd64bba8314bef9b781aabe6394c09d11/Automation_download_with_data_attributes.py)
 2. data cleaning: link
 3. visualization: link
