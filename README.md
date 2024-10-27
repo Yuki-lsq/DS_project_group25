@@ -9,10 +9,10 @@ Presentation Slide: https://docs.google.com/presentation/d/12AGvOv3PoVx-WHcJYEQG
 
 
 ## Pipeline
-1. data download: [Automation Code](https://github.com/Yuki-lsq/DS_project_group25/blob/c14a4cdbd64bba8314bef9b781aabe6394c09d11/Automation_download_with_data_attributes.py)
-2. data cleaning: [Data Cleaning](https://github.com/Yuki-lsq/DS_project_group25/blob/main/cleaning.ipynb)
-3. visualization: link
-4. model: [Model Training](https://github.com/Yuki-lsq/DS_project_group25/blob/44c6962d07d454af8fbc8db3a308b0f4989d68c4/Model_Training.ipynb)
+1. Data Download: [Automation Code](https://github.com/Yuki-lsq/DS_project_group25/blob/c14a4cdbd64bba8314bef9b781aabe6394c09d11/Automation_download_with_data_attributes.py)
+2. Data Cleaning: [Data Cleaning](https://github.com/Yuki-lsq/DS_project_group25/blob/main/cleaning.ipynb)
+3. Visualization: Tableau Link
+4. Model: [Model Training](https://github.com/Yuki-lsq/DS_project_group25/blob/44c6962d07d454af8fbc8db3a308b0f4989d68c4/Model_Training.ipynb)
 
 
 ## Meeting Recording:
