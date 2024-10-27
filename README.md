@@ -7,7 +7,7 @@ Cleaned Data Set - Philippines (Model Training):https://drive.google.com/file/d/
 
 ## Pipeline
 1. data download: [Automation Code](https://github.com/Yuki-lsq/DS_project_group25/blob/c14a4cdbd64bba8314bef9b781aabe6394c09d11/Automation_download_with_data_attributes.py)
-2. data cleaning: link
+2. data cleaning: [Data Cleaning](https://github.com/Yuki-lsq/DS_project_group25/blob/main/cleaning.ipynb)
 3. visualization: link
 4. model: [Model Training](https://github.com/Yuki-lsq/DS_project_group25/blob/44c6962d07d454af8fbc8db3a308b0f4989d68c4/Model_Training.ipynb)
 
