@@ -5,8 +5,6 @@ Raw Data Set (All Asian Data):https://drive.google.com/drive/folders/1O3PainZUhZ
 
 Cleaned Data Set - Philippines (Model Training):https://drive.google.com/file/d/1ZR4PVrgRfpdP0UqH2dTTj5o6HfEd11At/view?usp=sharing
 
-Instruction for all the files (!!!)
-pipeline (Yuki) others please clean out and comment the code clearly, will just attach the relevant file link in the pipeline file
 
 Presentation Vedio:
 - School version:
