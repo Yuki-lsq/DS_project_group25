@@ -38,7 +38,10 @@ Tableau file (TBD)
   - Personal E-mail: pqjspy@gmail.com
   - Phone: 0490910558
 
-
+- Chang Wang:
+  - Student E-mail: chanwang1@student.unimelb.edu.au
+  - Personal E-mail: wangchangtom@yeah.net
+  - Phone: 0405157896
 
 
 
