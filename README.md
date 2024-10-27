@@ -10,6 +10,13 @@ https://drive.google.com/file/d/1ZR4PVrgRfpdP0UqH2dTTj5o6HfEd11At/view?usp=shari
 Instruction for all the files (!!!)
 pipeline (Yuki) others please clean out and comment the code clearly, will just attach the relevant file link in the pipeline file
 
+Presentation Vedio:
+- School version:
+  https://drive.google.com/file/d/12MpwD6EtuiYPM0XLue43CJArQwsXIIOC/view?usp=sharing
+
+- Client version:
+  https://drive.google.com/file/d/1R0u-iYZ70_PoLM9yYwr_WN627eeI_yvW/view?usp=sharing
+
 Tableau file (TBD)
 
 Team Member Contact:
