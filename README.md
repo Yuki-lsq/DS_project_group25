@@ -22,6 +22,11 @@ Yuki Liang:
 Student E-mail: liasl1@student.unimelb.edu.au
 Personal E-mail: yukileung523@gmail.com
 Phone: 0493574521
+
+Sichao Ren:
+Student E-mail: sichaor@student.unimelb.edu.au
+Personal E-mail: chelsearen524@gmail.com
+Phone: 0432330811
 ...
 
 pipeline
