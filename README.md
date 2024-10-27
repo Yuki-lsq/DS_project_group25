@@ -12,12 +12,10 @@ Cleaned Data Set - Philippines (Model Training):https://drive.google.com/file/d/
 4. model: [Model Training](https://github.com/Yuki-lsq/DS_project_group25/blob/44c6962d07d454af8fbc8db3a308b0f4989d68c4/Model_Training.ipynb)
 
 
-## Presentation Vedio:
-- School version:
-  https://drive.google.com/file/d/12MpwD6EtuiYPM0XLue43CJArQwsXIIOC/view?usp=sharing
+## Meeting Recording:
+  1. https://drive.google.com/file/d/12MpwD6EtuiYPM0XLue43CJArQwsXIIOC/view?usp=sharing
 
-- Client version:
-  https://drive.google.com/file/d/1R0u-iYZ70_PoLM9yYwr_WN627eeI_yvW/view?usp=sharing
+  2. https://drive.google.com/file/d/1R0u-iYZ70_PoLM9yYwr_WN627eeI_yvW/view?usp=sharing
 
 Tableau file (TBD)
 
